@@ -1,0 +1,28 @@
+<svg id="instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.014" y1="1" x2="1" y2="0.066" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d10068"/>
+      <stop offset="1" stop-color="#db3b8b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2177" data-name="Group 2177">
+    <g id="Group_2176" data-name="Group 2176">
+      <path id="Path_13504" data-name="Path 13504" d="M101.739,0H18.261A18.281,18.281,0,0,0,0,18.261v83.478A18.283,18.283,0,0,0,18.261,120v-.237C20.392,120,24.266,120,31.3,120h70.435A18.283,18.283,0,0,0,120,101.739V18.261A18.283,18.283,0,0,0,101.739,0Zm13.043,101.739a13.058,13.058,0,0,1-13.043,13.043H18.261A13.058,13.058,0,0,1,5.217,101.739V18.261A13.058,13.058,0,0,1,18.261,5.217h83.478a13.058,13.058,0,0,1,13.043,13.043Z"/>
+    </g>
+  </g>
+  <g id="Group_2179" data-name="Group 2179" transform="translate(20.87 20.87)">
+    <g id="Group_2178" data-name="Group 2178">
+      <path id="Path_13505" data-name="Path 13505" d="M103.13,64a39.13,39.13,0,1,0,39.13,39.13A39.175,39.175,0,0,0,103.13,64Zm0,73.043a33.913,33.913,0,1,1,33.913-33.913A33.952,33.952,0,0,1,103.13,137.043Z" transform="translate(-64 -64)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Group_2181" data-name="Group 2181" transform="translate(36.277 36.399)">
+    <g id="Group_2180" data-name="Group 2180">
+      <path id="Path_13506" data-name="Path 13506" d="M134.849,111.624a23.6,23.6,0,1,0,23.6,23.6A23.629,23.629,0,0,0,134.849,111.624Zm0,41.984a18.383,18.383,0,1,1,18.383-18.383A18.4,18.4,0,0,1,134.849,153.608Z" transform="translate(-111.248 -111.624)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Group_2183" data-name="Group 2183" transform="translate(93.913 15.652)">
+    <g id="Group_2182" data-name="Group 2182">
+      <circle id="Ellipse_2796" data-name="Ellipse 2796" cx="5.217" cy="5.217" r="5.217" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
